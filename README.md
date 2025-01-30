@@ -31,4 +31,3 @@ Para complementar a análise dos testes, a pasta evidencias na raiz do projeto a
 
  ## ✨ Considerações finais:
 Este projeto é uma boa base para testar modais automaticamente. É fácil de usar e pode ser adaptado para outros sites. Melhora a experiência do usuário. Testar como os modais funcionam com outros sistemas.
-Desafio proposto pela [E2E Coders](https://ead.e2etreinamentos.com.br/)
